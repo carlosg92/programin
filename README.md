@@ -1,4 +1,4 @@
-<h3 align = "center"> Un desarrollador de frontend apasionado de la India </h3>
+<h3 align = "center"> Un desarrollador de frontend apasionado de la India </hador de frontend apasionado de la India </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=carlosg92" alt = "carlosg92 "/> </p>
 
